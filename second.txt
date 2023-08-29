@@ -1,2 +1,3 @@
 My second file.
 I am adding another point.
+I would like to say this too.
